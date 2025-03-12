@@ -1,0 +1,14 @@
+D:\C#\Joker\Joker\bin\Debug\net9.0\Joker.exe
+D:\C#\Joker\Joker\bin\Debug\net9.0\Joker.deps.json
+D:\C#\Joker\Joker\bin\Debug\net9.0\Joker.runtimeconfig.json
+D:\C#\Joker\Joker\bin\Debug\net9.0\Joker.dll
+D:\C#\Joker\Joker\bin\Debug\net9.0\Joker.pdb
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.AssemblyInfoInputs.cache
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.AssemblyInfo.cs
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.csproj.CoreCompileInputs.cache
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.dll
+D:\C#\Joker\Joker\obj\Debug\net9.0\refint\Joker.dll
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.pdb
+D:\C#\Joker\Joker\obj\Debug\net9.0\Joker.genruntimeconfig.cache
+D:\C#\Joker\Joker\obj\Debug\net9.0\ref\Joker.dll
